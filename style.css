@@ -1,0 +1,116 @@
+.black-text{
+    color: black;
+}
+.sign-in-button{
+    width: 104px;
+    height: 43px;
+    left: 1201px;
+    top: 25px;
+    background: #21B573;
+    color:#FFFFFF;
+    border-radius: 33px;
+    border: none;
+}
+.get-started{
+    width: 153px;
+    height: 43px;
+    left: 205px;
+    top: 470px;
+    color:#FFFFFF;
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+}
+.buy-now-button{
+    width: 137px;
+    height: 35px;
+    left: 158px;
+    top: 1461px;
+    background: #21B573;
+    color:#FFFFFF;
+    border-radius: 33px;
+    border:none;
+}
+.header-img{
+    width: 554px;
+    height: 346px;
+    left: 691px;
+    top: 157px;
+}
+.logo-image{
+    width: 198.07px;
+    height: 59px;
+    left: 212px;
+    top: 30px;
+}
+.testimonial-img{
+    width: 120px;
+    height: 120px;
+    left: 353px;
+    top: 1787px;
+}
+.cat1{
+    width: 270px;
+    height: 270px; 
+    background:#F8FFFB;
+}
+.cat2{
+    width: 270px;
+    height: 270px;
+    background: #FFFFFF;
+
+}
+.cat3{
+    width: 270px;
+    height: 270px;
+    background:#F8FFFB;
+}
+.cat4{
+    width: 270px;
+    height: 270px;
+    background: #F8FFFB;
+}
+.img-padding{
+    padding: 10px 30px;
+}
+.container{
+    margin-bottom: 60px;
+}
+.red-highlight{
+    color: #FD511A;
+}
+.green-text{
+    color:green;
+}
+.gray-text{
+    font-size: 16px;
+    line-height: 36px;
+    color: #6C6B6B;
+}
+.big-font h1{
+    font-size: 48px;
+    font-weight: bold;
+}
+.sm-font{
+    font-size: 16px;
+}
+.bold h4{
+    font-weight: bold;
+    font-size: 36px;
+    color: #413960;
+}
+.bold h5{
+    font-weight: bold;
+    font-size: 36px;
+    color: #000000;
+}
+.header-bg{
+    background: #F0FFF0;
+    height: 576px;
+}
+.footer-box{
+    height: 369px;
+    background: #282531;
+    color:white;
+}
+
